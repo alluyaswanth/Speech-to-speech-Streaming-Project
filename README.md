@@ -90,7 +90,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/AI-Video-Translator.git
+git clone https://github.com/alluyaswanth/AI-Video-Translator.git
 cd AI-Video-Translator
 Prepare Your Video
 Place your input video file (input_video.mp4) in the project directory.
