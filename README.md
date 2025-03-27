@@ -16,7 +16,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/AI-Video-Translator.git
+git clone https://github.com/alluyaswanth/AI-Video-Translator.git
 cd AI-Video-Translator
 Install dependencies:
 
